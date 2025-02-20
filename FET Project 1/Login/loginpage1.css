@@ -1,0 +1,104 @@
+﻿* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+    background-image: url("background1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Josefin Sans", "serif";
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#login-container {
+    background: rgba(0,0,0,0.56);
+    backdrop-filter: blur(26px);
+    width: 475px;
+    height: 616px;
+    padding:20px;
+ 
+}
+
+#h1 {
+    text-align: center;
+    line-height:36px;
+    font-size: 36px;
+    font-weight:600;
+    margin-top:40px;
+
+
+}
+
+#para1 {
+    text-align: center;
+    font-size: 16px;
+    font-weight:400;
+    line-height: 17px;
+    margin:70px 0px 20px;
+
+
+}
+
+
+#form1 {
+}
+
+#input-email {
+    padding: 5px;
+    margin: 0px 0px 0px 10px;
+    width: 328px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #EDFFFB;
+    margin:20px 0px;
+
+}
+
+#input-submit {
+    border-radius: 5px;
+    background-color: #2FCDCD;
+    font-size: 16px;
+    font-weight: 400;
+    height: 40px;
+    width: 100px;
+    padding: 5px;
+}
+
+#para2 {
+
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+    margin:50px 0px 40px;
+
+}
+
+
+#para3 {
+    width:340px;
+    line-height: 16px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400px;
+    margin:60px 10px 50px 50px;
+
+}
+
+
+#register-btn {
+    width: 151px;
+    height: 45px;
+    font-size:16px;
+    font-weight:400;
+    border-radius: 8px;
+    background-color: #2FCDCD;
+    margin:0px 0px 50px 138px;
+
+}
