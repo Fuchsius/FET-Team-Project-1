@@ -597,11 +597,12 @@ body {
 }
 
 .fa {
-    padding: 20px;
-    font-size: 48px;
+    padding: 10px;
+    font-size: 1.5rem;
     text-decoration: none;
     margin: 5px 15px;
     text-align:center;
+
 }
  
 .fa-youtube {
